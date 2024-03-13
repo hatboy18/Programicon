@@ -26,7 +26,7 @@ body{
 .menu{
     justify-content: space-between ;
     display: flex;
-    gap:2rem;
+    gap:1rem;
     margin: 3rem 2rem 1rem 2rem;
 }
 button{
